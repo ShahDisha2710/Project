@@ -16,7 +16,3 @@ This project helped me strengthen my skills in:
 ✅ Dynamic template rendering
 ✅ E-commerce UI design
 ✅ Booking and cart functionality
-
-
-9+3.
-..33333...
